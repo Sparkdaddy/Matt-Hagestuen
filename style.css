@@ -1,0 +1,9 @@
+.vertical-align {
+  display: table;
+  height: 100px;
+  width: 100%;
+}
+.container-jumbo {
+  display: table-cell;
+  vertical-align: bottom;
+}
